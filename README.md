@@ -34,7 +34,7 @@ Applications
 |---|---|---|
 | [M++](https://github.com/mathiassol/mpp) | Low-level compiled language with LLVM backend | Active |
 | [R2ND Website](https://github.com/mathiassol/r2nd-website) | Project website | Active |
-| R2ND UI | Custom UI rendering engine (R2ML markup, layout, rendering) | In Progress |
+| [R2ND UI](https://github.com/mathiassol/R2NDUI) | Custom UI rendering engine (R2ML markup, layout, rendering) | In Progress |
 | R2ND Platform | Installer, CLI tools, and deployment scripts | In Progress |
 | Core Libraries | Standard library — zero external dependencies | Planned |
 | 3D Renderer | Graphics pipeline from scratch | Planned |
