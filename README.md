@@ -39,7 +39,7 @@ Applications
 | Core Libraries | Standard library — zero external dependencies | Planned |
 | 3D Renderer | Graphics pipeline from scratch | Planned |
 | R2ND Networking | Full networking stack (TCP/UDP, HTTP, WebSocket) | Planned |
-| [R2ND Desktop](https://github.com/mathiassol/r2nd-desktop) | Complete desktop environment | Planned |
+| [R2ND Desktop](https://github.com/mathiassol/r2nd-desktop) | Complete desktop environment | In Progress |
 | R2ND Tools | Build system, package manager, debugger | Planned |
 
 > Repos without links are in local development and will be published when ready.
