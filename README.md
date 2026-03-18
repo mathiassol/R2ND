@@ -35,11 +35,11 @@ Applications
 | [M++](https://github.com/mathiassol/mpp) | Low-level compiled language with LLVM backend | Active |
 | [R2ND Website](https://github.com/mathiassol/r2nd-website) | Project website | Active |
 | [R2ND UI](https://github.com/mathiassol/R2NDUI) | Custom UI rendering engine (R2ML markup, layout, rendering) | In Progress |
-| R2ND Platform | Installer, CLI tools, and deployment scripts | In Progress |
+| [R2ND Platform](https://github.com/mathiassol/r2nd-platform) | Installer, CLI tools, and deployment scripts | In Progress |
 | Core Libraries | Standard library — zero external dependencies | Planned |
 | 3D Renderer | Graphics pipeline from scratch | Planned |
 | R2ND Networking | Full networking stack (TCP/UDP, HTTP, WebSocket) | Planned |
-| R2ND Desktop | Complete desktop environment | Planned |
+| [R2ND Desktop](https://github.com/mathiassol/r2nd-desktop) | Complete desktop environment | Planned |
 | R2ND Tools | Build system, package manager, debugger | Planned |
 
 > Repos without links are in local development and will be published when ready.
